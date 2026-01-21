@@ -264,6 +264,16 @@ hugoblox:
     enable: false
     anonymize_analytics: true
 
+  marketing:
+    privacy:
+      cookie_consent:
+        enable: true
+        content:
+          message: "This website uses cookies."
+          dismiss: "Ok"
+          link: "Learn more"
+          href: "/privacy/"
+
   # ────────────────────────────────────────────────────────────────────────────
   # DEBUG
   # Development and debugging (hidden in production)
@@ -289,3 +299,5 @@ hugoblox:
     # Affiliate referral code for rewards program
     # Join affiliate program: https://hugoblox.com/affiliates
     affiliate_code: ""
+
+
