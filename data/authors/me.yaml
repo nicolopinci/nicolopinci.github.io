@@ -3,8 +3,8 @@ slug: me
 is_owner: true
 name:
   display: Nicolò Pinciroli
-  given: Nicolò
-  family: Pinciroli
+  given: Nicolò Oreste
+  family: Pinciroli Vago
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: he/him
@@ -13,8 +13,7 @@ status:
   icon: ""
 role: PhD student in Information Technology
 bio: |
-  Nicolò Pinciroli is a PhD student in Information Technology at Politecnico di Milano. His research focuses on machine learning and data science applications in various domains, including astrophysics.
-
+  I am a PhD student in Information Technology at Politecnico di Milano. My research focuses on machine learning and data science applications to astrophysics problems, particularly in the search for pulsars and the analysis of gravitational lenses. I have experience in AI, data analysis, and computer vision.
 affiliations:
   - name: Polytechnic University of Milan
     url: www.polimi.it
@@ -31,6 +30,12 @@ links:
     url: https://scholar.google.it/citations?user=DwktRQ0AAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-7906-4987
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Nicolo-Pinciroli-Vago
+  - icon: academicons/scopus
+    url: https://www.scopus.com/authid/detail.uri?authorId=57226124605
+  - icon: academicicons/archive
+    url: https://www.deib.polimi.it/eng/people/details/1116006
 
 interests:
   - AI for astrophysics
