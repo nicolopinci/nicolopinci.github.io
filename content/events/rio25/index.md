@@ -30,7 +30,7 @@ tags:
 featured: true
 
 image:
-  caption: "Source: https://unsplash.com/it/foto/un-oggetto-blu-e-giallo-nel-cielo-scuro-lseggGDM_sQ"
+  caption: "Source: https://unsplash.com/it/foto/un-gruppo-molto-grande-di-oggetti-al-buio-fC3xMtsdpUk"
   focal_point: Right
 
 
