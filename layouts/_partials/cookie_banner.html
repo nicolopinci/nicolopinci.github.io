@@ -1,0 +1,21 @@
+<div id="cookie-banner" style="display: none; position: fixed; bottom: 20px; right: 20px; left: 20px; background: #222; color: #fff; padding: 20px; border-radius: 8px; z-index: 9999; box-shadow: 0 4px 15px rgba(0,0,0,0.3); font-family: sans-serif;">
+    <p style="margin: 0 0 15px 0; font-size: 14px; line-height: 1.5;">
+        Utilizziamo i cookie per migliorare la tua esperienza sul nostro sito. Proseguendo la navigazione acconsenti al loro utilizzo.
+    </p>
+    <button id="accept-cookies" style="background: #007bff; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; font-weight: bold;">
+        Accetta
+    </button>
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        if (!localStorage.getItem("cookieConsent")) {
+            document.getElementById("cookie-banner").style.display = "block";
+        }
+
+        document.getElementById("accept-cookies").addEventListener("click", function() {
+            localStorage.setItem("cookieConsent", "true");
+            document.getElementById("cookie-banner").style.display = "none";
+        });
+    });
+</script>
