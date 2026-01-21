@@ -1,15 +1,30 @@
 ---
-title: "Anomaly detection in quasi-periodic energy consumption data series: a comparison of algorithms"
+title: "A new pulsating neutron star in the Ultraluminous X-ray source NGC 4559 X7?"
 authors:
-- Niccolò Zangrando
-- Piero Fraternali
-- Marco Petri
+- Fabio Pintore
+- Ciro Pinto
+- Guillermo Rodriguez-Castillo
+- Gianluca Israel
 - me
-- Sergio Luis Herrera González
-date: "2022-12-01"
+- Sara Motta
+- Francesco Barra
+- Dominic J. Walton
+- Felix Fuerst
+- Peter Kosec
+- Chiara Salvaggio
+- Melania Del Santo
+- Anna Wolter
+- Matthew Middleton
+- Antonino D’Aì
+- Elena Ambrosi
+- Luciano Burderi
+- Matteo Imbrogno
+- Ruben Salvaterra
+- Alessandra Robba
+date: "2025-03-01"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-12-01"
+publishDate: "2025-03-01"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,21 +32,22 @@ publishDate: "2022-12-01"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Energy Informatics*"
+publication: "*Astronomy and Astrophysics*"
 publication_short: ""
 
-abstract: The diffusion of domotics solutions and of smart appliances and meters enables the monitoring of energy consumption at a very fine level and the development of forecasting and diagnostic applications. Anomaly detection (AD) in energy consumption data streams helps identify data points or intervals in which the behavior of an appliance deviates from normality and may prevent energy losses and break downs. Many statistical and learning approaches have been applied to the task, but the need remains of comparing their performances with data sets of different characteristics. This paper focuses on anomaly detection on quasi-periodic energy consumption data series and contrasts 12 statistical and machine learning algorithms tested in 144 different configurations on 3 data sets containing the power consumption signals of fridges. The assessment also evaluates the impact of the length of the series used for training and of the size of the sliding window employed to detect the anomalies. The generalization ability of the top five methods is also evaluated by applying them to an appliance different from that used for training. The results show that classical machine learning methods (Isolation Forest, One-Class SVM and Local Outlier Factor) outperform the best neural methods (GRU/LSTM autoencoder and multistep methods) and generalize better when applied to detect the anomalies of an appliance different from the one used for training.
+abstract: Ultraluminous X-ray sources (ULX) are extragalactic objects with observed X-ray luminosities largely above the Eddington limit for a 10 M⊙ black hole. Currently, it is believed that ULXs host super-Eddington accreting neutron stars or stellar mass black holes. However, the exact proportion of the two populations of compact objects is not yet known. We investigate the properties of the ULX NGC 4559 X7 (hereafter X7), which shows flux variability up to a factor of five on both long (months to years) and short (hours to days) timescales. A flaring activity was also observed during the highest flux epochs of the source. Flares are unpredictable. They have different durations (but similar rising and decay times) and are all flat topped in flux. The latter suggests that at the flare peaks, there is likely a common switch-off mechanism for the accretion onto the compact object. We analysed all available XMM-Newton and Swift/XRT observations in order to fully investigate the spectral and temporal evolution of X7, looking for short- and long-term variability. We applied a Lomb-Scargle search to look for long-term periodicities. We also looked for coherent signals through accelerated searches that included orbital corrections. We described the X7 spectral properties with two thermal components plus a cut-off power-law model. We found three well-defined spectral states where the spectral variability is mainly driven by the two harder components, with the thermal one clearly following a correlation between its temperature and luminosity. In addition, a pulsed signal at 2.6 s–2.7 s was detected in two XMM-Newton observations. The significance of these coherent signals is relatively weak, but they are found in two different observations with the same parameter space for the orbital properties. If confirmed, the pulsation would imply a high spin-down of 10−9 s s−1, which could be extreme amongst the known pulsating ULXs, and X7 would become a new extragalactic ULX pulsar. We discuss the spectral and temporal results of X7 in the context of super-Eddington accretion onto a stellar-mass compact object. In particular, we suggest that the source might likely host a neutron star.
 
 tags:
-- Industrial informatics
+- Astrophysics
 - Artificial Intelligence
-featured: false
+- Pulsating ULXs
+featured: true
 
 hugoblox:
 
 links:
   - type: pdf
-    url: https://link.springer.com/content/pdf/10.1186/s42162-022-00230-7.pdf
+    url: https://www.aanda.org/articles/aa/pdf/2025/03/aa53240-24.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -45,7 +61,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ["PRECEPT"]
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
