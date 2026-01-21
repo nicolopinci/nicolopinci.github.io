@@ -69,7 +69,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent and upcoming talks
+      title: Talks and posters
       filters:
         folders:
           - events
