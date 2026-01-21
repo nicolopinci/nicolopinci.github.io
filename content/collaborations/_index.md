@@ -11,11 +11,11 @@ design:
 sections:
   - block: collection
     content:
-      title: Projects
+      title: Collaborations
       text: 
       filters:
         folders:
-          - projects
+          - collaborations
     design:
       view: article-grid
       fill_image: false
