@@ -23,32 +23,29 @@ links:
   - icon: at-symbol
     url: mailto:nicolooreste.pinciroli@polimi.it
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/nicolopinci
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://www.linkedin.com/in/nicolo-pinciroli/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.it/citations?user=DwktRQ0AAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0001-7906-4987
 
 interests:
-  - Large Language Models
-  - Computer Vision
   - AI for astrophysics
+  - Machine Learning
+  - Data Science
+  - Data Analysis
+  - Computer Vision
+  - Explainability
 
 education:
   - degree: PhD Computer Science
     institution: Polytechnic University of Milan
     start: 2022
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
+      Thesis on the application of Artificial Intelligence techniques to astrophysics problems.
   - degree: MSc Computer Science and Engineering
     institution: Polytechnic University of Milan
     start: 2019
