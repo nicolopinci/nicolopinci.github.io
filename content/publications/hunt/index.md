@@ -1,5 +1,5 @@
 ---
-title: "Beyond Accretion Limits: The Rise of Pulsating Gems"
+title: "The hunt for new pulsating ultraluminous X-ray sources: A clustering approach"
 authors:
 - me
 - Roberta Amato
