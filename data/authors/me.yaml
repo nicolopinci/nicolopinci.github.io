@@ -109,8 +109,56 @@ languages:
     label: Fluent
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: NVIDIA Academic Grant Program
+    awarder: NVIDIA
+    date: "2025-01-01"
+    summary: Awarded a hardware grant of 4 NVIDIA RTX PRO 6000 GPUs for the project "Discovering Pulsars with Physics-Informed Machine Learning." as a co-Investigator.
+    icon: hero/cpu-chip
+
+  - title: Nomination for the AI Master's Thesis Awards
+    awarder: NTNU
+    date: "2021-01-01"
+    summary: Ranked 4th among 12 nominated students for the best NTNU master's theses in Artificial Intelligence.
+    icon: hero/document-text
+
+  - title: Masterstipend innan kultur (Scholarship in Culture)
+    awarder: Møre og Romsdal fylkeskommune
+    date: "2020-01-01"
+    summary: Awarded for a master's thesis contributing knowledge about the cultural life and current issues in Møre og Romsdal.
+    icon: hero/building-library
+
+  - title: Double Degree Scholarship
+    awarder: European Union & Politecnico di Milano
+    date: "2019-01-01"
+    summary: Two-year scholarship supporting the Double Degree program between Politecnico di Milano and the Norwegian University of Science and Technology.
+    icon: hero/globe-europe-africa
+
+  - title: High merit Scholarship
+    awarder: Politecnico di Milano
+    date: "2017-01-01"
+    summary: Merit-based exemption from university taxes for three consecutive years based on maintaining high GPA and credit requirements.
+    icon: hero/star
+
+  - title: Scuola di Como Scholarship
+    awarder: Scuola di Como (Fondazione Alessandro Volta)
+    date: "2016-01-01"
+    summary: Merit-based scholarship awarded to the top six selected students during the first year of Bachelor of Science programs in Como.
+    icon: hero/academic-cap
+
+  - title: Smart Civis Contest Finalist
+    awarder: Siemens
+    date: "2017-01-01"
+    summary: Finalist in the 2016/2017 edition, resulting in an internship award with Siemens.
     icon: hero/trophy
+
+  - title: UBI Banca Scholarship
+    awarder: UBI Banca
+    date: "2016-01-01"
+    summary: Awarded to the top students in the final year of scientific high school studies in Como.
+    icon: hero/banknotes
+
+  - title: High School Programme Scholarship
+    awarder: INPS-MIUR
+    date: "2014-01-01"
+    summary: Awarded for a three-month study exchange in New Zealand, covering travel and living expenses.
+    icon: hero/rocket-launch
