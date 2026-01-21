@@ -16,7 +16,7 @@ bio: |
   Nicolò Pinciroli is a PhD student in Information Technology at Politecnico di Milano. His research focuses on machine learning and data science applications in various domains, including astrophysics.
 
 affiliations:
-  - name: Politecnico di Milano
+  - name: Polytechnic University of Milan
     url: www.polimi.it
 
 links:
@@ -41,9 +41,8 @@ interests:
 
 education:
   - degree: PhD Computer Science
-    institution: Politecnico di Milano
+    institution: Polytechnic University of Milan
     start: 2022
-    end: 
     summary: |
       Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
     button:
@@ -51,59 +50,65 @@ education:
       url: /resume.pdf
       icon: hero/arrow-down-tray
   - degree: MSc Computer Science and Engineering
-    institution: Politecnico di Milano
+    institution: Polytechnic University of Milan
     start: 2019
     end: 2021
   - degree: MSc Simulation and Visualization
-    institution: Politecnico di Milano
+    institution: Norwegian University of Science and Technology (NTNU)
     start: 2019
     end: 2021
   - degree: BSc Computer Science and Engineering
-    institution: Politecnico di Milano
+    institution: Polytechnic University of Milan
     start: 2016
     end: 2019
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: University tutor and learning assistant
+    org: Polytechnic University of Milan
+    start: 2021
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      "Data bases 2" and "Web Technologies" courses. Assisted in lectures, labs, and exams.
 
-skills:
-  - name: Technical Skills
-    items:
-      - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
+
+  - role: Research fellow
+    org: Polytechnic University of Milan
+    start: 2021
+    end: 2022
+    summary: |
+      Conducted research in data analysis using ML and Computer Vision. Focused on artworks analysis, anomaly detection for the PRECEPT project, and evolutionary algorithms in astrophysics.
+    
+
+  - role: Learning Assistant
+    org: Norwegian University of Science and Technology (NTNU)
+    start: 2020
+    end: 2021
+    summary: |
+      "Algorithms and Data Structures" and "Signal processing" courses.
+
+  - role: Summer Research Student
+    org: Norwegian University of Science and Technology (NTNU)
+    start: 2020
+    end: 2020
+    summary: |
+      Developed ML and visualization tools for the PlastOPol project. Implemented CNNs for ocean trash detection and built spatial data visualization platforms.
+
+  - role: Student assistant
+    org: Norwegian University of Science and Technology (NTNU)
+    start: 2019
+    end: 2020
+    summary: |
+      Collaborated on the "Adaptiv læringsverktøy" project to develop an adaptive, Moodle-based test administration platform.
+
 
 languages:
-  - name: English
+  - name: Italian
     level: 5
     label: Native
-  - name: Spanish
+  - name: English
     level: 4
+    label: Fluent
+  - name: Spanish
+    level: 3
     label: Fluent
 
 awards:
