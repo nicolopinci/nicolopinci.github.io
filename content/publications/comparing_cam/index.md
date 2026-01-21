@@ -24,6 +24,7 @@ abstract: Iconography studies the visual content of artworks by considering the 
 tags:
 - Explainability
 - Artificial Intelligence
+- Art
 featured: true
 
 hugoblox:
