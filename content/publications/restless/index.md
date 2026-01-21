@@ -19,22 +19,21 @@ authors:
  - Andrea Tiengo
 
 
-date: '2025-06-27'
+date: '2024-06-27'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-06-27'
+publishDate: '2024-06-27'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: Astronomy and Astrophysics
 
 
-abstract: Astronomers have produced large multimodal datasets that include images, spectra, and time series, and that encode physical information about the observed objects. In addition, a large amount of physics-specific knowledge about these objects has been accumulated in the astronomical literature. We introduce a physics-informed representation alignment framework that matches X-ray observations of astrophysical objects and text summaries describing the physical properties of those sources. We perform contrastive learning between data representations learned using a Poisson process autodecoder and text summary representations generated with a Large Language Model. We demonstrate the generalization capabilities of the system and evaluate the performance of the post-alignment shared representations for regression tasks. We also present a use case for the physical interpretation of newly observed astrophysical sources.
-
+abstract: We report on the multi-year evolution of the population of X-ray sources in the nuclear region of NGC 3621 based on Chandra, XMM-Newton, and Swift observations. Among these, two sources, X1 and X5, after their first detection in 2008, seem to have faded below the detectability threshold, a most interesting fact as X1 is associated with the active galactic nucleus (AGN) of the galaxy. Two other sources, X3 and X6, are presented for the first time, the former showing a peculiar short-term variability in the latest available dataset, suggesting an egress from eclipse, and hence belonging to the handful of known eclipsing ultra-luminous X-ray sources. One source, X4, previously known for its heartbeat (i.e. a characteristic modulation in its signal with a period of ≈1 h), shows a steady behaviour in the latest observation. Finally, the brightest X-ray source in NGC 3621, here labelled X2, shows steady levels of flux across all the available datasets, but a change in its spectral shape, reminiscent of the behaviours of Galactic disc-fed X-ray binaries.
 
 tags:
   - Artificial Intelligence
