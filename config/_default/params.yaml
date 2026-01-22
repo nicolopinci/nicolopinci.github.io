@@ -261,7 +261,7 @@ hugoblox:
   # Privacy and compliance features
   # ────────────────────────────────────────────────────────────────────────────
   privacy:
-    enable: false
+    enable: true
     anonymize_analytics: true
 
   marketing:
@@ -271,8 +271,7 @@ hugoblox:
         content:
           message: "This website uses cookies."
           dismiss: "Ok"
-          link: "Learn more"
-          href: "/privacy/"
+          
 
   # ────────────────────────────────────────────────────────────────────────────
   # DEBUG

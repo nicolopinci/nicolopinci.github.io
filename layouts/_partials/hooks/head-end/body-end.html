@@ -1,0 +1,18 @@
+<div id="cookie-banner" style="display: none; position: fixed; bottom: 20px; right: 20px; left: 20px; background: #1a1a1a; color: #fff; padding: 20px; border-radius: 8px; z-index: 99999; box-shadow: 0 4px 20px rgba(0,0,0,0.4); font-family: sans-serif; border: 1px solid #333;">
+    <div style="max-width: 1000px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+        <span style="font-size: 14px;">Utilizziamo i cookie per migliorare la tua esperienza su questo sito.</span>
+        <button id="accept-cookies" style="background: #007bff; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; font-weight: bold; white-space: nowrap;">Accetta</button>
+    </div>
+</div>
+
+<script>
+    (function() {
+        if (!localStorage.getItem("cookie-consent-accepted")) {
+            document.getElementById("cookie-banner").style.display = "block";
+        }
+        document.getElementById("accept-cookies").onclick = function() {
+            localStorage.setItem("cookie-consent-accepted", "true");
+            document.getElementById("cookie-banner").style.display = "none";
+        };
+    })();
+</script>
