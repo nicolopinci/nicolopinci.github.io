@@ -1,8 +1,8 @@
 ---
-title: "Invited talk at Workshop ""Optical GEMS in the Quickly Variable Sky: New Insights on Neutron Star Fundamental Physics from Multi-Messenger Observations"""
+title: "Invited talk at Workshop 'Optical GEMS in the Quickly Variable Sky: New Insights on Neutron Star Fundamental Physics from Multi-Messenger Observations'"
 date: '2026-09-10'
 
-event_name: "Workshop ""Optical GEMS in the Quickly Variable Sky: New Insights on Neutron Star Fundamental Physics from Multi-Messenger Observations"""
+event_name: "Workshop 'Optical GEMS in the Quickly Variable Sky: New Insights on Neutron Star Fundamental Physics from Multi-Messenger Observations'"
 event_url: https://indico.ict.inaf.it/event/3556/
 
 location: In-person
