@@ -1,8 +1,8 @@
 ---
-title: "Invited talk at Workshop 'Optical GEMS in the Quickly Variable Sky: New Insights on Neutron Star Fundamental Physics from Multi-Messenger Observations'"
+title: "Invited talk at Workshop 'Optical GEMS in the Quickly Variable Sky'"
 date: '2026-09-10'
 
-event_name: "Workshop 'Optical GEMS in the Quickly Variable Sky: New Insights on Neutron Star Fundamental Physics from Multi-Messenger Observations'"
+event_name: "Workshop 'Optical GEMS in the Quickly Variable Sky'"
 event_url: https://indico.ict.inaf.it/event/3556/
 
 location: In-person
@@ -10,7 +10,7 @@ address:
   city: Monte Porzio Catone
   country: Italy
 
-summary: "Invited talk at the Workshop 'Optical GEMS in the Quickly Variable Sky: New Insights on Neutron Star Fundamental Physics from Multi-Messenger Observations'. See the [event page](https://indico.ict.inaf.it/event/3556/) for details".
+summary: "Invited talk at the Workshop 'Optical GEMS in the Quickly Variable Sky'. See the [event page](https://indico.ict.inaf.it/event/3556/) for details".
 abstract: |
   Millisecond pulsars (MSPs) are unique laboratories for probing the Neutron Star (NS) Equation of State (EoS) at supra-nuclear densities. The GEMS project - funded by the Italian MUR under the PRIN 2020 program (PI: Astone) - strategically connected innovative observational strategies across the gravitational wave (CW) and electromagnetic (EM) domains to maximise CW search sensitivity in LIGO-Virgo data.
 
