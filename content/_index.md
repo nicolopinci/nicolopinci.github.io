@@ -71,6 +71,7 @@ sections:
     id: talks
     content:
       title: Talks and posters
+      count: 10
       filters:
         folders:
           - events
